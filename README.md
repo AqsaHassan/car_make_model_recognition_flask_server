@@ -81,7 +81,9 @@ output_layer = "softmax/Softmax"
 classifier_input_size = (224, 224)
 ```
 ***model_file*** is the path to the car make and model classifier
+
 ***classifier_input_size*** is the input size of the classifier
+
 ***label_file*** is the path to the text file, containing a list with the supported makes and models
 
 ---
